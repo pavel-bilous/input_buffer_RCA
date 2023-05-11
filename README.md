@@ -1,6 +1,6 @@
-# Input buffer for amplifier with balanced inputs
+# RCA input buffer
 
-This buffer serves as an impedance matching and has RCA inputs for two channels.
+Impedance matching buffer that converts RCA inputs into balanced signal.
 
 ## PCB rendered in 3d:
 ![Screenshot](img/3d.png)
