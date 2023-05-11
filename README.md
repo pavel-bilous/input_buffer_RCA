@@ -1,12 +1,9 @@
 # Input buffer for amplifier with balanced inputs
 
-This buffer serves as an impedance matching and is implemented on the board that allows for balanced XLR inputs for two channels.
-
-
+This buffer serves as an impedance matching and has RCA inputs for two channels.
 
 ## PCB rendered in 3d:
 ![Screenshot](img/3d.png)
-
 
 ## Schematics:
 
